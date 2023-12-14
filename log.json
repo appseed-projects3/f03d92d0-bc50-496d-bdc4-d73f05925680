@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-nodejs",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "berry-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "f03d92d0-bc50-496d-bdc4-d73f05925680",
+    "task_info": "Upload Sources [0%] - 144 files",
+    "task_output": "f03d92d0-bc50-496d-bdc4-d73f05925680.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-12-14-13-26-52",
+    "task_ts_start": "2023-12-14-13-26-51"
+}
